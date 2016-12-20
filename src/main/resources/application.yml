@@ -1,0 +1,4 @@
+application:
+  message: Hello, Peter
+server:
+  port: 8083
